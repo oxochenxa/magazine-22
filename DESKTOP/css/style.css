@@ -43,16 +43,16 @@ p, ul{
     line-height: 30px !important;
 }
 body{
-    background-color: #dddddd;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 .font-bold{
     font-weight: bold;
 }
 body a:link{
-    color: black;
-    -webkit-text-fill-color: black;
+    color: white;
+    -webkit-text-fill-color: white;
     font-weight: bold;
     text-decoration: none;
 }
