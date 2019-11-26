@@ -57,7 +57,7 @@ body a:link{
     color: white;
     -webkit-text-fill-color: white;
     font-weight: bold;
-    text-decoration: none;
+    text-decoration:underline;
 }
 
 .block-header img{
