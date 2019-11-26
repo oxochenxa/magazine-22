@@ -50,6 +50,9 @@ body{
 .font-bold{
     font-weight: bold;
 }
+.font-italic{
+    font-style: italic;
+}
 body a:link{
     color: white;
     -webkit-text-fill-color: white;
@@ -82,7 +85,7 @@ body a:link{
   clear: both;
 }
 .column img{
-    width: 360px;
+    width: 100%;
 }
 /*.outline, .row, .img-content{
     margin-top: 20px;
